@@ -4,14 +4,6 @@ Policy Modeling is a Vite React app with HeroUI and Tailwind CSS already wired u
 
 ## Overview
 
-### What Is Included
-
-- React with TypeScript
-- Vite for local development and production builds
-- HeroUI components
-- Tailwind CSS styling
-- A public Vercel deployment
-
 ### Live App
 
 - Production URL: https://policy-modeling.vercel.app
