@@ -8,3 +8,26 @@
 body {
   margin: 0;
 }
+
+* {
+  box-sizing: border-box;
+}
+
+button,
+input {
+  font: inherit;
+}
+
+.preference-radio .radio__control {
+  background: #ffffff !important;
+  border-color: #a1a1aa !important;
+}
+
+.preference-radio[data-selected] .radio__control {
+  background: #ffffff !important;
+  border-color: #ffffff !important;
+}
+
+.preference-radio .radio__indicator {
+  background: #18181b !important;
+}
