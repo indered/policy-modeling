@@ -12,6 +12,9 @@ Policy Modeling is a Vite React app with HeroUI and Tailwind CSS already wired u
 - The app models premium type, premium range, inflation rider preference, coverage amount, and care start age.
 - The age slider shows how much value each policy delivers if LTC starts at that age.
 
+**walkthrough video:**  
+https://www.youtube.com/watch?v=KUykdbhrYNI
+
 ### Live App
 
 - Production URL: https://policy-modeling.vercel.app
